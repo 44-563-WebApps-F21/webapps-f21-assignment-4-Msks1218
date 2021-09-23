@@ -1,0 +1,29 @@
+.name{
+    color: black;
+    font-family: Helvetica; 
+    font: size 20px;
+}
+p.stage-direction{
+    font-family: Helvetica;
+    font-size:20px;
+    color:black;
+    background-color: rgb(153, 207, 238);
+}
+.speech{
+    font-family: Helvetica;
+    font-size:20px;
+    color: rgb(240, 102, 102);
+}
+.stage-direction:hover{
+    background-color: rgb(203, 231, 161);
+    color:bisque;
+}
+.LORD_GORING{
+    color: rgb(74, 153, 218);
+   }
+   .GERALD{
+   color: rgb(22, 138, 128);
+   }
+   .SIR_ROBERT_CHILTERN{
+       color: rgb(235, 198, 34);
+   }
